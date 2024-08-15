@@ -1,5 +1,4 @@
-{
-  "users": [
+
     {
       "id": "1",
       "email": "alice.smith@example.com",
@@ -35,5 +34,3 @@
       "last_name": "Martin",
       "avatar": "https://example.com/avatars/eve_martin.png"
     }
-  ]
-}
